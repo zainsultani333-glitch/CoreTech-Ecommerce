@@ -10,13 +10,13 @@ const Carousel = () => {
 
   // Image from public/images folder
   const images = [
-  "https://cavemanorganics.pk/cdn/shop/articles/image1.png?v=1707667951",
+  "https://www.greendna.in/cdn/shop/files/Rose_tea_600x.jpg?v=1721046446",
   "https://thaicharmbeauty.com/cdn/shop/collections/Organic_Products.webp?v=1721743767",
-  "https://cavemanorganics.pk/cdn/shop/articles/image1_ea58624e-23ef-4a94-ab04-13916e4d45a0.png?v=1707668880",
+  "https://www.pakmines.com/wp-content/uploads/2018/12/geomatrical-shape-bg.jpg",
   "https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/content/wi/art/6b233f78-584-c65ac76d37.jpg",
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSkFuHeuR-m5GBBZ8FseioNCyowctPk9C_YA&s",
   "https://www.mayasbeautypalace.com/cdn/shop/articles/ultimate-guide-to-the-best-natural-skincare-products-229620.webp?v=1723660199",
-  "https://natrue.org/uploads/2020/05/NATRUE_article.png"
+  "https://cdn.shopify.com/s/files/1/0518/3825/5255/files/banana_flour.png?v=1764562142"
   ];
 
   // Preload all images
@@ -138,7 +138,7 @@ const Carousel = () => {
             ref={textRef}
             className="text-4xl md:text-5xl font-bold mb-4 text-center animate-pulse text-shadow-xl"
           >
-            Welcome to Infinity Bytes PVT.Ltd
+            Welcome to CoreTech PVT.Ltd
           </h1>
           <p className="text-lg md:text-xl mb-8 text-center max-w-2xl">
             Discover the best products with unbeatable deals!
