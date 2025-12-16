@@ -127,7 +127,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between px-5 md:px-20 py-3">
         {/* Logo */}
         <Link to="/" className="flex items-center flex-shrink-0">
-          <img src="/images/CoreTechlogo.png" alt="CoreTech Logo" className="h-14 w-auto" />
+          <img src="/images/CoreTech.jpeg" alt="CoreTech Logo" className="h-14 w-auto" />
         </Link>
 
         {/* Desktop Menu */}
